@@ -94,6 +94,7 @@ private let imageNames: [CaseInsensitiveString: String] = [
     "Slack": "Slack",
     "Snapchat": "Snapchat",
     "STACK": "STACK",
+    "Standard Notes": "StandardNotes",
     "Stripe": "Stripe",
     "Surfshark": "Surfshark",
     "TETR.IO": "TETR.IO",
