@@ -103,6 +103,7 @@ private let imageNames: [CaseInsensitiveString: String] = [
     "Tutanota": "Tutanota",
     "Twilio": "Twilio",
     "Twitter": "Twitter",
+    "Twitch": "Twitch",
     "Ubisoft": "Ubisoft",
     "VKontakte": "VKontakte",
     "Wallabag": "Wallabag",
